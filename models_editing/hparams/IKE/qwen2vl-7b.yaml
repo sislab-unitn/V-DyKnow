@@ -1,0 +1,6 @@
+alg_name: "IKE"
+model_name: "qwen2-vl-7b"
+hf_model_name: "Qwen/Qwen2-VL-7B-Instruct"
+device: 0
+
+k: 1

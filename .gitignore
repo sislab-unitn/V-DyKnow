@@ -1,0 +1,53 @@
+#####=== Python ===#####
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# vscode
+.vscode
+
+# logs
+logs/
+
+# model weights
+edited_models/
+
+# trained editing methods (MEND, SERAC)
+trained_methods/
+
+# hugging cache from EasyEdit
+hugging_cache/
+
+# MEMIT mom2
+stats/
+
+*.tar.gz
+
+.python-version
+.tarignore
+
+*.DS_Store
+
+tmp/
+
+utils copy.py
+
+run_analysis.sh
+
+wikidata_dolma
+
+saved_models
+
+*/dataset_mechanistic.py
+*/edit_model_mechanistic.py
+*/llava_1_5_7b_collator_mechanistic.py
+*/qwen2_vl_collator_mechanistic.py
+*/utils_mechanistic.py
+
+mechanistic_interpretability/
+
+
