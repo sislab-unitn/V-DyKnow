@@ -1,0 +1,4 @@
+
+[submodule "models_editing/EasyEdit"]
+	path = models_editing/EasyEdit
+	url = https://github.com/christianmoiola/EasyEdit.git
